@@ -1,0 +1,15 @@
+layout {
+    pane size=1 borderless=true {
+        plugin location="zellij:tab-bar"
+    }
+
+    pane split_direction="vertical" size="20%"  {
+        pane cwd="$HOME/Projects"
+        pane cwd="$HOME/Projects"
+    }
+    pane size="80%" cwd="$HOME/Projects"
+
+    pane size=2 borderless=true {
+        plugin location="zellij:status-bar"
+    }
+}
