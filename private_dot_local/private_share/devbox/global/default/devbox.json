@@ -13,7 +13,8 @@
     "zellij@latest",
     "lazygit@latest",
     "zsh@latest",
-    "gcc@latest"
+    "gcc@latest",
+    "lima@latest"
   ],
   "shell": {
     "init_hook": [
