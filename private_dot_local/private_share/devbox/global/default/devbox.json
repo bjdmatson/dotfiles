@@ -14,7 +14,8 @@
     "lazygit@latest",
     "zsh@latest",
     "gcc@latest",
-    "lima@latest"
+    "lima@latest",
+    "kubectl@latest"
   ],
   "shell": {
     "init_hook": [
